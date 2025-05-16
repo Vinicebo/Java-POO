@@ -13,10 +13,12 @@ public class D extends B {
     public void testeA(){
         A a = new A();
 
+
     }
 
     public void testeB(){
         B b = new B();
+
 
 
 
@@ -25,10 +27,12 @@ public class D extends B {
     public void testeC(){
         C c = new C();
 
+
     }
 
     public void testeD(){
         D d = new D();
+
 
     }
 
